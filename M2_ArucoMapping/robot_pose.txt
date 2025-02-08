@@ -1,0 +1,6 @@
+{
+  "robot_x": 0.1,
+  "robot_y": 0.4,
+  "robot_theta": 25.0
+
+}
